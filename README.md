@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Hier is de beschrijving van deze repository
 
 ## What it does
 
-FEATURES PLACEHOLDER
+En hier zijn de features (eigenschappen) van dit project.
 
 ## Getting started
 
